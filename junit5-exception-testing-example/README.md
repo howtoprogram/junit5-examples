@@ -16,7 +16,7 @@ Menu **File –> Import –> Gradle Project –> Select Project --> Next until f
 ## 3. Run the example
 
 
-Open the **StringUtilsTestUnit5Disabled.java** 
+Open the **StringUtilsTestUnit5Exception.java** 
 
 **Right click -> Run As -> JUnit Test** or use the shortcut: **Alt+Shift+x, T** to start the main method
 
