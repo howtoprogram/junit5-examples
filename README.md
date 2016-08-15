@@ -21,6 +21,8 @@ Menu **File –> Import –> Gradle Project –> Select Project --> Next until f
 [JUnit 5 Disable or Ignore A Test](http://howtoprogram.xyz/2016/08/14/junit-5-disable-ignore-tests/)
 ### junit5-disable-test-example
 
+[JUnit 5 Exception Testing](http://howtoprogram.xyz/2016/08/15/junit-5-exception-testing/)
+### junit5-exception-testing-example
 
 ## 3. Related Posts
 ## [JUnit 5 vs JUnit 4](http://howtoprogram.xyz/2016/08/10/junit-5-vs-junit-4/)
