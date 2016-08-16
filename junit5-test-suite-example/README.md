@@ -16,11 +16,11 @@ Menu **File –> Import –> Gradle Project –> Select Project --> Next until f
 ## 3. Run the example
 
 
-Open the **StringUtilsTestUnit5Disabled.java** 
+Open the **PlayOrderFeatureSuite.java, UserFeatureSuite.java** 
 
 **Right click -> Run As -> JUnit Test** or use the shortcut: **Alt+Shift+x, T** to start the main method
 
-All the source code are described in: [JUnit 5 Disable or Ignore A Test](http://howtoprogram.xyz/2016/08/14/junit-5-disable-ignore-tests/)
+All the source code are described in: [JUnit 5 Test Suite ](http://howtoprogram.xyz/2016/08/16/junit-5-test-suite/)
 
 ## 4. Related Posts
 ### [JUnit 5 Tutorial](http://howtoprogram.xyz/java-technologies/junit-5-tutorial/)
@@ -28,4 +28,4 @@ All the source code are described in: [JUnit 5 Disable or Ignore A Test](http://
 ### [JUnit 5 Basic Introduction](http://howtoprogram.xyz/2016/08/07/junit-5-basic-introduction/)
 ### [JUnit 5 Assertions Example](http://howtoprogram.xyz/2016/08/12/junit-5-assertions-example/)
 ### [JUnit 5 Exception Testing](http://howtoprogram.xyz/2016/08/15/junit-5-exception-testing/)
-### [JUnit 5 Test Suite ](http://howtoprogram.xyz/2016/08/16/junit-5-test-suite/)
+### [JUnit 5 Disable or Ignore A Test](http://howtoprogram.xyz/2016/08/14/junit-5-disable-ignore-tests/)

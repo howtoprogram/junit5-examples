@@ -28,3 +28,4 @@ All the source code are described in: [JUnit 5 Exception Testing](http://howtopr
 ### [JUnit 5 Basic Introduction](http://howtoprogram.xyz/2016/08/07/junit-5-basic-introduction/)
 ### [JUnit 5 Assertions Example](http://howtoprogram.xyz/2016/08/12/junit-5-assertions-example/)
 ### [JUnit 5 Disable or Ignore A Test](http://howtoprogram.xyz/2016/08/14/junit-5-disable-ignore-tests/)
+### [JUnit 5 Test Suite ](http://howtoprogram.xyz/2016/08/16/junit-5-test-suite/)

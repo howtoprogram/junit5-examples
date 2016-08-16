@@ -24,6 +24,9 @@ Menu **File –> Import –> Gradle Project –> Select Project --> Next until f
 [JUnit 5 Exception Testing](http://howtoprogram.xyz/2016/08/15/junit-5-exception-testing/)
 ### junit5-exception-testing-example
 
+[JUnit 5 Test Suite ](http://howtoprogram.xyz/2016/08/16/junit-5-test-suite/)
+### junit-5-test-suite-example
+
 ## 3. Related Posts
 ## [JUnit 5 Tutorial](http://howtoprogram.xyz/java-technologies/junit-5-tutorial/)
 ## [JUnit 5 vs JUnit 4](http://howtoprogram.xyz/2016/08/10/junit-5-vs-junit-4/)
