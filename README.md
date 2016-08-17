@@ -27,6 +27,9 @@ Menu **File –> Import –> Gradle Project –> Select Project --> Next until f
 [JUnit 5 Test Suite ](http://howtoprogram.xyz/2016/08/16/junit-5-test-suite/)
 ### junit-5-test-suite-example
 
+JUnit 5 Assumptions With Assume](http://howtoprogram.xyz/2016/08/17/junit-5-assumptions-assume/)
+### junit-5-assumptions
+
 ## 3. Related Posts
 ## [JUnit 5 Tutorial](http://howtoprogram.xyz/java-technologies/junit-5-tutorial/)
 ## [JUnit 5 vs JUnit 4](http://howtoprogram.xyz/2016/08/10/junit-5-vs-junit-4/)
