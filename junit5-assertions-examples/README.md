@@ -30,3 +30,4 @@ All the source code are described in: [JUnit 5 Assertions Example](http://howtop
 ## [JUnit 5 Exception Testing](http://howtoprogram.xyz/2016/08/15/junit-5-exception-testing/)
 ## [JUnit 5 Assumptions With Assume](http://howtoprogram.xyz/2016/08/17/junit-5-assumptions-assume/)
 ## [JUnit 5 Nested Tests Examples] (http://howtoprogram.xyz/2016/08/19/junit-5-nested-tests-examples/)
+## [JUnit 5 Dynamic Tests - Generate Tests at Run-time](http://howtoprogram.xyz/2016/08/21/junit-5-dynamic-tests/)

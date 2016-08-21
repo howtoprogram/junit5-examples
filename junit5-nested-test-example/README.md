@@ -32,3 +32,4 @@ All the source code are described in: [JUnit 5 Nested Tests Examples] (http://ho
 ### [JUnit 5 Disable or Ignore A Test](http://howtoprogram.xyz/2016/08/14/junit-5-disable-ignore-tests/)
 ### [JUnit 5 Assumptions With Assume](http://howtoprogram.xyz/2016/08/17/junit-5-assumptions-assume/)
 ### [JUnit 5 Test Suite ](http://howtoprogram.xyz/2016/08/16/junit-5-test-suite/)
+### [JUnit 5 Dynamic Tests - Generate Tests at Run-time](http://howtoprogram.xyz/2016/08/21/junit-5-dynamic-tests/)
