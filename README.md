@@ -37,6 +37,9 @@ JUnit 5 Assumptions With Assume](http://howtoprogram.xyz/2016/08/17/junit-5-assu
 [JUnit 5 Dynamic Tests - Generate Tests at Run-time](http://howtoprogram.xyz/2016/08/21/junit-5-dynamic-tests/)
 ### junit5-dynamic-test-example
 
+[JUnit 5 Maven Example](http://howtoprogram.xyz/2016/09/09/junit-5-maven-example/)
+### junit5-maven-example
+
 ## 3. Related Posts
 ## [JUnit 5 Tutorial](http://howtoprogram.xyz/java-technologies/junit-5-tutorial/)
 ## [JUnit 5 vs JUnit 4](http://howtoprogram.xyz/2016/08/10/junit-5-vs-junit-4/)
