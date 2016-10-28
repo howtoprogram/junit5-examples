@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
 @RunWith(JUnitPlatform.class)
 @ExtendWith(ReportAnnotationParameterResolver.class)
 @ExtendWith(AuditServiceParameterResolver.class)
-@ExtendWith(EnvironmentNameParameterResolver.class)
+//@ExtendWith(EnvironmentNameParameterResolver.class)
 public class TestOrderService {
 
 	@DisplayName("Test placeOrder method")
@@ -38,10 +38,10 @@ public class TestOrderService {
 		assertEquals(1, 1);
 	}
 
-	@Test
-	public void placeOrderNotLogin(EnvironmentInfo env) {
-		assertEquals("Windows 10", env.getOS());
-		assertEquals(1, 1);
-	}
+//	@Test
+//	public void placeOrderNotLogin(EnvironmentInfo env) {
+//		assertEquals("Windows 10", env.getOS());
+//		assertEquals(1, 1);
+//	}
 
 }
