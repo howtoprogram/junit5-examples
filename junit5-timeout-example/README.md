@@ -16,11 +16,11 @@ Menu **File –> Import –> Gradle Project –> Select Project --> Next until f
 ## 3. Run the example
 
 
-Open the **PlayOrderFeatureSuite.java, UserFeatureSuite.java** 
+Open the **TestOrderService.java
 
 **Right click -> Run As -> JUnit Test** or use the shortcut: **Alt+Shift+x, T** to start the main method
 
-All the source code are described in: [JUnit 5 Test Suite ](http://howtoprogram.xyz/2016/08/16/junit-5-test-suite/)
+All the source code are described in: [Timeout Test in JUnit 5](http://howtoprogram.xyz/2016/12/01/junit-5-timeout-test/)
 
 ## 4. Related Posts
 ### [JUnit 5 Tutorial](http://howtoprogram.xyz/java-technologies/junit-5-tutorial/)
