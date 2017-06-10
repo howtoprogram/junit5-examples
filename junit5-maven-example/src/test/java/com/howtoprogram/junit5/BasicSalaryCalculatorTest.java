@@ -1,11 +1,16 @@
 package com.howtoprogram.junit5;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertThrows;
+
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
+import org.junit.platform.runner.JUnitPlatform;
+import org.junit.runner.RunWith;
 
+@RunWith(JUnitPlatform.class)
 public class BasicSalaryCalculatorTest {
   private BasicSalaryCalculator basicSalaryCalculator;
 
@@ -20,12 +25,15 @@ public class BasicSalaryCalculatorTest {
     basicSalaryCalculator.setBasicSalary(basicSalary);
 
     double expectedSocialInsurance = basicSalary * 0.25;
-    assertEquals(expectedSocialInsurance, basicSalaryCalculator.getSocialInsurance());
+    assertEquals(expectedSocialInsurance,
+      basicSalaryCalculator.getSocialInsurance());
 
     double expectedAddionalBonus = basicSalary * 0.1;
-    assertEquals(expectedAddionalBonus, basicSalaryCalculator.getAdditionalBonus());
+    assertEquals(expectedAddionalBonus,
+      basicSalaryCalculator.getAdditionalBonus());
 
-    double expectedGross = basicSalary + expectedSocialInsurance + expectedAddionalBonus;
+    double expectedGross = basicSalary + expectedSocialInsurance
+      + expectedAddionalBonus;
     assertEquals(expectedGross, basicSalaryCalculator.getGrossSalary());
 
   }
