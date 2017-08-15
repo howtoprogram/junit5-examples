@@ -48,11 +48,11 @@ public class StringUtilsTestUnit5 {
   public void testConvertToDoubleThrowException() {
     // Test with the age is a non numeric string
     String age = "N/A";
-    expectThrows(NumberFormatException.class, () -> {
+    assertThrows(NumberFormatException.class, () -> {
       StringUtils.convertToDouble(age);
     });
 
-    expectThrows(NumberFormatException.class, () -> {
+    assertThrows(NumberFormatException.class, () -> {
       StringUtils.convertToDouble(age);
     });
   }
