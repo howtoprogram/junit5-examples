@@ -21,3 +21,6 @@ junit5-dynamic-test-example/.project
 junit5-dynamic-test-example/.settings/org.eclipse.core.resources.prefs
 junit5-dynamic-test-example/.settings/org.eclipse.jdt.core.prefs
 junit5-dynamic-test-example/.settings/org.eclipse.m2e.core.prefs
+junit5-gradle-example/.classpath
+junit5-gradle-example/.project
+junit5-timeout-example/.classpath
