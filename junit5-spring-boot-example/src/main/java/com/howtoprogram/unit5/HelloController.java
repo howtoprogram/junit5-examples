@@ -6,9 +6,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class HelloController {
 
-	@GetMapping("/hello-world")
-	public String hello() {
-		return "Hello World";
+	@GetMapping("/about")
+	public String aboutMe() {
+		return "JUnit 5 and Spring Boot Example.";
 	}
 
 }
