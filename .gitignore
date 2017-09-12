@@ -24,3 +24,5 @@ junit5-dynamic-test-example/.settings/org.eclipse.m2e.core.prefs
 junit5-gradle-example/.classpath
 junit5-gradle-example/.project
 junit5-timeout-example/.classpath
+junit5-spring-boot-example/.classpath
+junit5-spring-boot-example/.project
