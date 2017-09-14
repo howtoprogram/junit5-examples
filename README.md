@@ -44,4 +44,4 @@ Menu **File –> Import –> Gradle Project –> Select Project --> Next until f
 ## [JUnit 5 Tutorial](http://howtoprogram.xyz/java-technologies/junit-5-tutorial/)
 ## [JUnit 5 vs JUnit 4](http://howtoprogram.xyz/2016/08/10/junit-5-vs-junit-4/)
 ## [JUnit 5 Basic Introduction](http://howtoprogram.xyz/2016/08/07/junit-5-basic-introduction/)
-
+## [JUnit 5 and Spring Boot Example](https://howtoprogram.xyz/2017/09/12/junit-5-spring-boot-example/)
