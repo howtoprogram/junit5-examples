@@ -26,3 +26,4 @@ junit5-gradle-example/.project
 junit5-timeout-example/.classpath
 junit5-spring-boot-example/.classpath
 junit5-spring-boot-example/.project
+junit5-maven-jacoco-example/.classpath
