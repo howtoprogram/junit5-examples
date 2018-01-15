@@ -1,29 +1,26 @@
-junit5-maven-example/.classpath
-junit5-assertions-examples/.project
-junit5-maven-example/.gitignore
-junit5-maven-example/.settings/org.eclipse.core.resources.prefs
-junit5-assertions-examples/.classpath
-junit5-maven-example/.project
-junit5-maven-example/.settings/org.eclipse.jdt.core.prefs
-junit5-maven-example/.settings/org.eclipse.m2e.core.prefs
-junit5-assumptions-example/.classpath
-junit5-assumptions-example/.project
-junit5-assumptions-example/.settings/org.eclipse.core.resources.prefs
-junit5-assumptions-example/.settings/org.eclipse.jdt.core.prefs
-junit5-assumptions-example/.settings/org.eclipse.m2e.core.prefs
-junit5-disable-test-example/.classpath
-junit5-disable-test-example/.project
-junit5-disable-test-example/.settings/org.eclipse.core.resources.prefs
-junit5-disable-test-example/.settings/org.eclipse.jdt.core.prefs
-junit5-disable-test-example/.settings/org.eclipse.m2e.core.prefs
-junit5-dynamic-test-example/.classpath
-junit5-dynamic-test-example/.project
-junit5-dynamic-test-example/.settings/org.eclipse.core.resources.prefs
-junit5-dynamic-test-example/.settings/org.eclipse.jdt.core.prefs
-junit5-dynamic-test-example/.settings/org.eclipse.m2e.core.prefs
-junit5-gradle-example/.classpath
-junit5-gradle-example/.project
-junit5-timeout-example/.classpath
-junit5-spring-boot-example/.classpath
-junit5-spring-boot-example/.project
-junit5-maven-jacoco-example/.classpath
+# Eclipse
+.project
+.classpath
+.settings/
+ 
+# Idea
+.idea/
+*.iml
+*.iws
+*.ipr
+ 
+# OS
+Thumbs.db
+.DS_Store
+ 
+# Maven
+target/
+ 
+# Build
+out/
+build/
+bin/
+
+ 
+# Others
+*.log
