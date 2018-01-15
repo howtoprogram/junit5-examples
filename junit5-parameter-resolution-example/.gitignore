@@ -1,5 +1,26 @@
-/bin/
-/target/
-/.classpath/
-/.project/
-/.settings/
+# Eclipse
+.project
+.classpath
+.settings/
+ 
+# Idea
+.idea/
+*.iml
+*.iws
+*.ipr
+ 
+# OS
+Thumbs.db
+.DS_Store
+ 
+# Maven
+target/
+ 
+# Build
+out/
+build/
+bin/
+
+ 
+# Others
+*.log
