@@ -1,7 +1,6 @@
 package com.howtoprogram.junit5;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.expectThrows;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 import static org.junit.jupiter.api.Assertions.fail;
 import org.junit.jupiter.api.Test;
@@ -25,7 +24,7 @@ public class StringUtilsTestUnit5Exception {
   @Test
   public void convertToIntNullParameterExpectThrows() {
     String st = null;
-    Throwable exception = expectThrows(IllegalArgumentException.class, () -> {
+    Throwable exception = assertThrows(IllegalArgumentException.class, () -> {
       StringUtils.convertToInt(st);
     });
     assertEquals("String must be not null or empty", exception.getMessage());

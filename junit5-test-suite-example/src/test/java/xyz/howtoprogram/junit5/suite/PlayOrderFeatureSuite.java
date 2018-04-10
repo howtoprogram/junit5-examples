@@ -1,7 +1,7 @@
 package xyz.howtoprogram.junit5.suite;
 
 import org.junit.platform.runner.JUnitPlatform;
-import org.junit.platform.runner.SelectClasses;
+import org.junit.platform.suite.api.SelectClasses;
 import org.junit.runner.RunWith;
 
 import xyz.howtoprogram.junit5.order.TestOrderService;

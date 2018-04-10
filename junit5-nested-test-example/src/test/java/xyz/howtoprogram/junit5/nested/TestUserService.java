@@ -4,7 +4,6 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
-import static org.junit.jupiter.api.Assertions.expectThrows;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Nested;
@@ -60,7 +59,7 @@ public class TestUserService {
 
     @Test
     void loginUsernamePasswordAreNulls() {
-      IllegalArgumentException exception = expectThrows(IllegalArgumentException.class, () -> {
+      IllegalArgumentException exception = assertThrows(IllegalArgumentException.class, () -> {
         userService.login(null, null);
       });
       assertEquals("Username and password must not be null or empty", exception.getMessage());
