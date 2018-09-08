@@ -5,11 +5,6 @@ import static org.junit.jupiter.api.Assertions.assertNull;
 
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
-import org.junit.platform.runner.JUnitPlatform;
-import org.junit.runner.RunWith;
-
-@RunWith(JUnitPlatform.class)
-
 public class StringUtilsTestUnit5Disabled {
 
   @Test
