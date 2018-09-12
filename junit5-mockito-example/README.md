@@ -1,4 +1,4 @@
-# JUnit 5 Mockitor Example
+# JUnit 5 Mockito Example
 
 ## 1. Run the example
 
